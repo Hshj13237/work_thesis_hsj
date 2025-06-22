@@ -5,3 +5,5 @@
 试验代码：./python_dn2/mains
 
 单卡代码：./python_dn/mains
+
+（该work中的所有代码直接运行即可，超参数配置需直接在代码中修改）
